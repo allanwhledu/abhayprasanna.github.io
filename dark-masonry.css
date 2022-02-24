@@ -47,7 +47,7 @@ Courtesy : Murf, Daniel van der Merwe, Rob Hasfield
     margin-left: 10px;
     -ms-flex-item-align: start;
         align-self: flex-start; /* So pages can be diff widths in a single column */
-    border-radius: 6px;
+    border-radius: 12px;
     border: none;
 }
 .sidebar-content > div:not(.rm-dnd-separator) > div:not(.rm-dnd-separator) {
